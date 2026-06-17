@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-PilusaLC%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:PilusaLC@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](www.linkedin.com/in/leshabe-pilusa-6922b441)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel)](https://leshabepilusa.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel)](https://github.com/Pilusal3shabe/Pilusal3shabe)
 [![Location](https://img.shields.io/badge/Location-Midrand%2C%20Johannesburg%2C%20RSA-green?style=flat-square&logo=googlemaps)](https://maps.google.com/?q=Midrand+Johannesburg+South+Africa)
 
 ---
