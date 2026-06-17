@@ -78,35 +78,6 @@ My work bridges **plant-floor operations** with **digital architecture** — I h
 
 ---
 
-## 📊 Featured Project: AI Automation Agency Playbook
-
-> *A real execution of a service-based AI automation business model — built from zero to R20k/month recurring revenue.*
-
-**Problem:** South African SMBs (accountants, estate agents, dentists, law firms) lose 10-20 hours/week on manual WhatsApp follow-ups, document collection, and appointment reminders.
-
-**Solution:** Built a full-scale AI automation service using:
-- **n8n** for workflow automation
-- **Claude API** for AI processing
-- **WhatsApp Business** for client communication
-- **Power BI** for KPI tracking
-
-**Results (90-day execution):**
-- ✅ 5 paying clients on retainer
-- ✅ R20,000+ monthly recurring revenue
-- ✅ 22+ hours saved per week across clients
-- ✅ 450+ automated tasks
-- ✅ 99.9% uptime
-
-**Use cases delivered:**
-- Estate agents: Instant WhatsApp lead response + showing reminders
-- Document collection portal + automated FICA verification
-- Appointment scheduling and confirmation automation
-- Monthly client engagement tracking dashboard
-
-[🔗 See live demo →](https://leshabepilusa.vercel.app)
-
----
-
 ## 📈 What I Deliver
 
 | Area | Capabilities |
